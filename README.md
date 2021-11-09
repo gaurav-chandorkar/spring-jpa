@@ -1,15 +1,14 @@
 # spring-jpa
-test project
 
 
-Connecting Springboot App with DB
- Mapping Entities with DB 
-Different JPA Annotations 
-Understanding Repositories and their methods
- @Embeddable and @Embedded 
-Creating JPA Repositories & methods
- @Query Annotation 
-Native Queries 
- Query Named Params 
-@Transactional and @Modifying Annotation 
- JPA One-To-One Relationship 
+Connecting Springboot App with DB<br>
+ Mapping Entities with DB <br>
+Different JPA Annotations <br>
+Understanding Repositories and their methods<br>
+ @Embeddable and @Embedded <br>
+Creating JPA Repositories & methods<br>
+ @Query Annotation <br>
+Native Queries <br>
+ Query Named Params <br>
+@Transactional and @Modifying Annotation <br>
+ JPA One-To-One Relationship <br>
